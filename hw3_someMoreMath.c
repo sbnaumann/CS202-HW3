@@ -1,4 +1,19 @@
+/*
+Assignment: 3
+<Some more math>
+
+Name: Sam Naumann 
+Email: sbnaumann@middlebury.edu
+Date: 10/3/2018
+Collaborators: none
+
+To compile: N/A
+To run: N/A
+*/
+
 /* 
+Sam Naumann 
+
 Some more math section 
 
 
